@@ -1,6 +1,6 @@
-# Loan-prediction-using-machine-learning
-# Data Source:https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
-
+## Loan-prediction-using-machine-learning
+### Data Source:https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#ProblemStatement 
+ ```
 Variable	Description
 Loan_ID:	Unique Loan ID
 Gender:	Male/ Female
@@ -15,3 +15,4 @@ Loan_Amount_Term:	Term of loan in months
 Credit_History:	credit history meets guidelines
 Property_Area:	Urban/ Semi Urban/ Rural
 Loan_Status:	(Target) Loan approved (Y/N)
+```
